@@ -1,0 +1,2 @@
+# EdgeGPT.ahk
+EdgeGPT.ahk
