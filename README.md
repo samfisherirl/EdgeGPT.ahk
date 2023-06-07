@@ -1,6 +1,6 @@
 # EdgeGPT.ahk
-EdgeGPT.ahk
 
+Working on converting python to ahkv2
 ### convoID grab:
 ```python
             response = await client.get(
