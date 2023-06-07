@@ -1,7 +1,7 @@
 # EdgeGPT.ahk
 EdgeGPT.ahk
 
-convoID grab:
+### convoID grab:
 ```python
             response = await client.get(
                 url=os.environ.get("BING_PROXY_URL")
@@ -13,9 +13,8 @@ convoID grab:
                 )
 
 ```
-
+### final get request
 ```python
-# final get request
 
                 response = await client.post(
                     "https://sydney.bing.com/sydney/UpdateConversation/",
