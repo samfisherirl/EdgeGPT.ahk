@@ -13,7 +13,7 @@ Working on converting python to ahkv2
                 )
 
 ```
-### final get request
+### final post request
 ```python
 
                 response = await client.post(
