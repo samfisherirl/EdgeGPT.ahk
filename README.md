@@ -38,9 +38,10 @@ Working on converting python to ahkv2
                 print(f"Status code: {response.status_code}")
                 print(response.text)
                 print(response.url)
-
+```
 
 struct needs: 
+
 ```python
         self.request = _ChatHubRequest(
             conversation_signature=conversation.struct["conversationSignature"],
