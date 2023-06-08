@@ -7,6 +7,11 @@ C#:  https://github.com/liaosunny123/BingChatApi/blob/master/BingChatApiLibs/Bin
 
 Py: https://github.com/acheong08/EdgeGPT
 
+Successful conversation with CS:
+
+![image](https://github.com/samfisherirl/EdgeGPT.ahk/assets/98753696/9030084d-2073-4b97-91f0-f9ce7a7c37a0)
+
+
 ### convoID grab:
 ```python
             response = await client.get(
