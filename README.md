@@ -1,6 +1,8 @@
 # EdgeGPT.ahk
 
-Working on converting python to ahkv2
+Working on converting EdgeGPT.py and BingChatAPI.cs to a pure autohotkey library. 
+These libraries utilize Bing's public access with no cost or key required, utilizing ChatGPT-4
+
 ### convoID grab:
 ```python
             response = await client.get(
