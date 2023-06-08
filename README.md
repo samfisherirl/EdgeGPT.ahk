@@ -4,6 +4,7 @@ Working on converting EdgeGPT.py and BingChatAPI.cs to a pure autohotkey library
 These libraries utilize Bing's public access with no cost or key required, utilizing ChatGPT-4
 
 C#:  https://github.com/liaosunny123/BingChatApi/blob/master/BingChatApiLibs/BingChatClient.cs
+
 Py: https://github.com/acheong08/EdgeGPT
 
 ### convoID grab:
